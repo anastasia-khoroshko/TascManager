@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2013\Projects\ToDoManager\TascManager\bin\Debug\TascManager.dll.config
+C:\Users\User\documents\visual studio 2013\Projects\ToDoManager\TascManager\bin\Debug\TascManager.dll
+C:\Users\User\documents\visual studio 2013\Projects\ToDoManager\TascManager\bin\Debug\TascManager.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ToDoManager\TascManager\bin\Debug\DummyToDoManager.dll
+C:\Users\User\documents\visual studio 2013\Projects\ToDoManager\TascManager\bin\Debug\ToDo.Infrastructure.dll
+C:\Users\User\documents\visual studio 2013\Projects\ToDoManager\TascManager\bin\Debug\ToDoManagerLoader.dll
+C:\Users\User\documents\visual studio 2013\Projects\ToDoManager\TascManager\obj\Debug\TascManager.dll
+C:\Users\User\documents\visual studio 2013\Projects\ToDoManager\TascManager\obj\Debug\TascManager.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ToDoManager\TascManager\obj\Debug\TascManager.csprojResolveAssemblyReference.cache
